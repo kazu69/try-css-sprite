@@ -1,0 +1,38 @@
+{
+  "name": "css-sprite",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kazu69/css-sprite",
+  "author": {
+    "name": "kazu69",
+    "email": "kazu69web@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kazu69/css-sprite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kazu69/css-sprite/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kazu69/css-sprite/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-este-watch": "~0.1.15",
+    "grunt-coffeelint": "~0.0.8",
+    "grunt-notify": "~0.2.17",
+    "load-grunt-config": "~0.7.1",
+    "time-grunt": "~0.2.9",
+    "grunt-newer": "~0.6.1",
+    "css-sprite": "~0.6.2"
+  },
+  "keywords": []
+}
